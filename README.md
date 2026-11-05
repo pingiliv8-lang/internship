@@ -126,8 +126,12 @@ Responses: `201` booked, `400` invalid input, `409` slot already taken.
 
 ## Team
 
-- **Pingili Vishruth**
-- **Suraj**
-- **Murari**
+| Name | Roll No. |
+|------|----------|
+| Pingili Vishruth | 160124771055 |
+| Suraj V | 160124771062 |
+| Murari G | 160124771039 |
 
-Internship: MERN Stack Developer, Code Sprint (Savna Tech Products Pvt Ltd), 24 June to 4 August 2026.
+AI & DS-1, III Year, Semester V
+
+Internship: MERN Stack Developer, Code Sprint (Savna Tech Products Pvt Ltd), 24 June to 4 August 2026 (90+ hours).
